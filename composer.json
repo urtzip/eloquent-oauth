@@ -1,5 +1,5 @@
 {
-    "name": "adamwathan/eloquent-oauth",
+    "name": "urtzip/eloquent-oauth",
     "description": "Stupid simple OAuth authentication with Laravel and Eloquent",
     "authors": [
     {
@@ -8,6 +8,12 @@
     }
     ],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/urtzip/socialnorm-facebook"
+        }
+    ],
     "require": {
         "php": ">=5.5.0",
         "illuminate/auth": "4.*|5.*",
@@ -17,7 +23,7 @@
         "illuminate/routing": "4.*|5.*",
         "illuminate/support": "4.*|5.*",
         "socialnorm/socialnorm": "^0.2",
-        "socialnorm/facebook": "^0.2",
+        "urtzip/socialnorm-facebook": "^0.2",
         "socialnorm/github": "^0.2",
         "socialnorm/linkedin": "^0.2",
         "socialnorm/google": "^0.2",
