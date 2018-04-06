@@ -23,7 +23,7 @@
         "illuminate/routing": "4.*|5.*",
         "illuminate/support": "4.*|5.*",
         "socialnorm/socialnorm": "^0.2",
-        "urtzip/socialnorm-facebook": "^0.2",
+        "urtzip/socialnorm-facebook": "dev-master",
         "socialnorm/github": "^0.2",
         "socialnorm/linkedin": "^0.2",
         "socialnorm/google": "^0.2",
